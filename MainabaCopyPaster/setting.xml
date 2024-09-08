@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <EditorFilePath>C:\Users\wwttsuzawa\AppData\Local\Programs\Microsoft VS Code\Code.exe</EditorFilePath>
+  <WinMergeFilePath>C:\Program Files\WinMerge\WinMergeU.exe</WinMergeFilePath>
+  <Manual>
+    <Path>_Front\Theme\Common\assets\js\system\pages</Path>
+    <Path>_Front\Theme\Responsive</Path>
+    <Path>_Front\Web.Config</Path>
+    <Path>aaa</Path>
+  </Manual>
+  <Shortcut>
+    <CurrentRootPath>C:\vuptemp\MR1035_Jokyu\current_honban\_Front</CurrentRootPath>
+    <UpdateRootPath>C:\vuptemp\MR1035_Jokyu\更新用ファイル-Honban\_Front</UpdateRootPath>
+    <xmlFilePath>C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\bin\Debug\net8.0-windows\..\..\..\setting.xml</xmlFilePath>
+  </Shortcut>
+</Settings>

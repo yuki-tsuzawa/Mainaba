@@ -1,0 +1,17 @@
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\bin\Debug\net8.0-windows\MainabaCopyPaster.exe
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\bin\Debug\net8.0-windows\MainabaCopyPaster.deps.json
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\bin\Debug\net8.0-windows\MainabaCopyPaster.runtimeconfig.json
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\bin\Debug\net8.0-windows\MainabaCopyPaster.dll
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\bin\Debug\net8.0-windows\MainabaCopyPaster.pdb
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.Form1.resources
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.Form2.resources
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.csproj.GenerateResource.cache
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.AssemblyInfo.cs
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.dll
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\refint\MainabaCopyPaster.dll
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.pdb
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\MainabaCopyPaster.genruntimeconfig.cache
+C:\inetpub\wwwroot\MainabaCopyPaster\MainabaCopyPaster\obj\Debug\net8.0-windows\ref\MainabaCopyPaster.dll
